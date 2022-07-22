@@ -1,0 +1,9 @@
+Estas anotações visam sinalizar (para relembrar) tópicos importantes dentro do desafio ao Git/GitHub da DIO
+
+Link para Download do Git: https://git-scm.com/downloads
+
+Sugestão - Acessar na Plataforma da DIO o Curso de Introduçã ao Git e ao GitHub.
+
+Link de Acesso ao curso: https://web.dio.me/course/introducao-ao-git-e-ao-github/learning/75b9fe49-6ed4-4480-83a7-7e37fc356aa9
+
+O Git Bash é um terminal extendido para optimizar o uso do Git.
